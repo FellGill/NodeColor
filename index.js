@@ -1,4 +1,4 @@
-exports.name = {
+module.exports = {
     "apricot": "#E67E30",
     "mahogany": "#88421D",
     "aquamarine": "#79F8F8",
