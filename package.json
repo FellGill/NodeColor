@@ -1,0 +1,11 @@
+{
+  "name": "nodeocolor",
+  "version": "0.0.1",
+  "main": "index.js",
+  "keywords": [
+    "HEX",
+    "Color"
+  ],
+  "author": "FellGill",
+  "license": "MIT"
+}
