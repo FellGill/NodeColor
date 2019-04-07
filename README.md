@@ -20,7 +20,7 @@ or
 yarn add github:FellGill/nodecolor
 ```
 
-Usage:
+# Usage:
 
 ```javascript
 const color = require("nodecolor")
