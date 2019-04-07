@@ -10,12 +10,12 @@ A color palette for nodejs
 |  almond  |  #82C46C |
 |  amaranth  |   #91283B |
 
-Install:
+# Install:
 
 ```bash
 npm i github:FellGill/nodecolor
 ```
-ou
+or
 ```bash
 yarn add github:FellGill/nodecolor
 ```
