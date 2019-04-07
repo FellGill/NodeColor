@@ -7,5 +7,6 @@ Usage:
 const color = require("NodeColor")
 
 /* For exemple */
-console.log(color.name.mahogany)
+console.log(color.mahogany)
+///=> #88421D
 ```
